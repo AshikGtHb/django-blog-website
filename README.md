@@ -5,4 +5,4 @@ This website will allow the user to write the blog and publish the content. The 
 
 # b. Tools used
 We have used Django framework as the backend for the website. Python has been used extensively. Furthermore, HTML and CSS have been used in the frontend for the website.
-For the database, SQLITE has been used.
+For the database, SQLITE has been used. We had used Pycharm as the IDE.
